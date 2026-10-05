@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.text_black{
+  color: black
+  
+}
+.text_light{
+  color: aliceblue;
+}
